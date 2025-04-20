@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @ebadkhan22
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...coding
-- 💞️ I’m looking to collaborate on ...coding
-- 📫 How to reach me ...coding
-- 😄 Pronouns: ...coding
-- ⚡ Fun fact: ...coding
+
 
 <!---
 ebadkhan22/ebadkhan22 is a ✨ special coder✨ repository because its `README.md` (this file) appears on your GitHub profile.
